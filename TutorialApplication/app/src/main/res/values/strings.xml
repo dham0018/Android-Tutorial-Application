@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">Android Development</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- Tutorial Data ArrayList -->
+    <string-array name="tutorial_data_title_list">
+        <item>Android Basics</item>
+        <item>Android Fragments</item>
+        <item>Android Intent</item>
+        <item>Android Layout</item>
+        <item>Android Widgets</item>
+        <item>Android Menu</item>
+        <item>Android Notifications</item>
+        <item>Android Storage</item>
+        <!--<item>Android Service</item>-->
+        <!--<item>Android AlarmManager</item>-->
+
+        <!--<item>Android SQLite</item>-->
+        <!--<item>XML and JSON</item>-->
+        <!--<item>Android Multimedia</item>-->
+        <!--<item>Android Speech</item>-->
+        <!--<item>Android Telephony</item>-->
+        <!--<item>Android Device</item>-->
+        <!--<item>Camera Tutorial</item>-->
+        <!--<item>Sensor Tutorial</item>-->
+        <!--<item>Android Graphics</item>-->
+        <!--<item>Android Animation</item>-->
+        <!--<item>Android Web Service</item>-->
+        <!--<item>Google Map</item>-->
+        <!--<item>Adding Ads</item>-->
+        <!--<item>Android Social</item>-->
+        <!--<item>Android Examples</item>-->
+    </string-array>
+
+    <string-array name="android_basics">
+        <item>Home</item>
+        <item>What is Android</item>
+        <item>History of Android Version</item>
+        <item>Android Architecture</item>
+        <item>Android Components</item>
+        <item>Android Environment Setup</item>
+        <item>Install Android Studio</item>
+        <item>Setup Eclipse</item>
+        <item>Hello World Example</item>
+        <item>Internal Details</item>
+        <item>Dalvik VM</item>
+        <item>Android Activity</item>
+        <item>Android Service</item>
+    </string-array>
+<string-array name="android_fragments">
+    <item>Android Fragments</item>
+</string-array>
+
+    <string-array name="android_intent">
+        <item>Intent</item>
+        <item>Implicit Intent Example</item>
+        <item>Explicit Intent Example</item>
+        <!--<item>StartActivityForResult</item>-->
+        <item>Share App Data</item>
+    </string-array>
+
+    <string-array name="android_layouts">
+        <item>Android View and View Group</item>
+        <item>Constraint Layout</item>
+        <item>Linear Layout</item>
+        <item>Relative Layout</item>
+        <item>Table Layout</item>
+        <item>Frame Layout</item>
+        <item>Absolute Layout</item>
+        <item>Android ListView</item>
+        <item>Android GridView</item>
+        <item>Android WebView</item>
+    </string-array>
+
+    <string-array name="android_widgets">
+        <item>Android TextView</item>
+        <item>Android EditText</item>
+        <item>Android AutoCompleteTextView</item>
+        <item>Android Button</item>
+        <item>Android ImageButton</item>
+        <item>Android ToggleButton</item>
+        <item>Android RadioButton</item>
+        <item>Android CheckBox</item>
+        <item>Android ProgressBar</item>
+        <item>Android Spinner</item>
+        <item>Android DatePicker</item>
+        <item>Android TimePicker</item>
+        <item>Android SeekBar</item>
+        <item>Android RatingBar</item>
+        <item>Android TextClock</item>
+        <item>Android Switch</item>
+        <item>Android AlertDialog</item>
+    </string-array>
+    <string-array name="android_menu">
+        <item>Options Menu</item>
+        <item>Context Menu</item>
+        <item>Popup Menu</item>
+    </string-array>
+    <string-array name="android_notifications">
+        <item>Android Toast</item>
+        <item>Android Custom Toast</item>
+        <item>Android Notifications</item>
+        <item>Android Progress Notification</item>
+    </string-array>
+    <string-array name="android_storage">
+        <item>Android Shared Preferences</item>
+        <item>Android Internal Storage</item>
+        <item>Android External Storage</item>
+        <item>Android SQLite Database</item>
+        <item>Android SQLite Spinner</item>
+    </string-array>
+
+    <string-array name="android_service">
+        <item>Android Service</item>
+    </string-array>
+    <string-array name="android_alarm_manager">
+        <item>Android AlarmManager</item>
+    </string-array>
+
+    <string-array name="android_sqlite">
+        <item>SQLite Tutorial</item>
+        <item>SQLite Spinner</item>
+    </string-array>
+    <string-array name="xml_json">
+        <item>XML Parsing SAX"</item>
+        <item>XML Parsing DOM"</item>
+        <item>XMLPullParser"</item>
+        <item>JASON Parsing"</item>
+    </string-array>
+    <string-array name="android_multimedia">
+        <item>MediaPlayer: Audio</item>
+        <item>VideoView: Video</item>
+        <item>Recording Media</item>
+    </string-array>
+    <string-array name="android_speech">
+        <item>TextToSpeech1</item>
+        <item>TextToSpeech2</item>
+    </string-array>
+    <string-array name="android_telephony">
+        <item>Telephony Manager</item>
+        <item>Get Call State</item>
+        <item>Get Call State2</item>
+        <item>Simple Caller Talker</item>
+        <item>Phone Call</item>
+        <item>Sens SMS</item>
+        <item>Send Email</item>
+    </string-array>
+    <string-array name="android_device">
+        <item>Bluetooth Tutorial</item>
+        <item>List Paired Devices</item>
+        <item>WIFI</item>
+    </string-array>
+    <string-array name="camera_tutorial">
+        <item>Camera Tutorial</item>
+    </string-array>
+    <string-array name="sensor_tutorial">
+        <item>Sensor Tutorial</item>
+    </string-array>
+    <string-array name="android_graphics">
+        <item>Android Graphics</item>
+    </string-array>
+    <string-array name="android_animation">
+        <item>Android Animation</item>
+    </string-array>
+    <string-array name="android_web_service">
+        <item>Android Web Service</item>
+    </string-array>
+    <string-array name="google_map">
+        <item>Android Google Map</item>
+        <item>Current Location</item>
+        <item>Search Location</item>
+    </string-array>
+    <string-array name="adding_advertisements">
+        <item>Android Google Admob</item>
+        <item>1) Banner Ads</item>
+        <item>2) Interstitial Ads</item>
+    </string-array>
+    <string-array name="android_social">
+        <item>Integrating Google SignIn</item>
+        <item>Integrating LinkedIn</item>
+        <item>Integrating Twitter</item>
+    </string-array>
+    <string-array name="android_examples">
+        <item>QR/Bar Code Scanner</item>
+        <item>RSS Feed Reader</item>
+        <item>Volley Fetch JSON</item>
+        <item>Android Linkify</item>
+        <item>Intro Slider</item>
+        <item>RecyclerView List</item>
+        <item>Swipe Del RecyclerView</item>
+        <item>Swipe Refresh Activity</item>
+        <item>Volley Library Registration Login Logout</item>
+        <item>Network Connectivity Services</item>
+        <item>Firebase Authentication - Google Login</item>
+        <item>Android Notification</item>
+        <item>Using Google reCAPTCHA</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
