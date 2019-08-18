@@ -1,10 +1,8 @@
 # Android-Tutorial-Application
-![Screenshot_1565876707](https://user-images.githubusercontent.com/8079627/63226920-6f763980-c1ae-11e9-914b-a1c6275ceb00.png)
-![Screenshot_1565876708](https://user-images.githubusercontent.com/8079627/63226925-80bf4600-c1ae-11e9-8fd1-0a285f5efc1a.png)
-![Screenshot_1565876715](https://user-images.githubusercontent.com/8079627/63226927-89178100-c1ae-11e9-99a4-cfb87928c2a2.png)
-![Screenshot_1565876742](https://user-images.githubusercontent.com/8079627/63226930-92085280-c1ae-11e9-899a-676df641f0bd.png)
-![Screenshot_1565876799](https://user-images.githubusercontent.com/8079627/63226932-992f6080-c1ae-11e9-9574-41cb88e09d0d.png)
-![Screenshot_1565876941](https://user-images.githubusercontent.com/8079627/63226938-a1879b80-c1ae-11e9-9b95-1a2d6ec56236.png)
-![Screenshot_1565876979](https://user-images.githubusercontent.com/8079627/63226939-a8aea980-c1ae-11e9-99d3-1745bcd480c3.png)
-![Screenshot_1565877040](https://user-images.githubusercontent.com/8079627/63226940-b06e4e00-c1ae-11e9-8778-6f9a19067397.png)
-![Screenshot_1565877084](https://user-images.githubusercontent.com/8079627/63226946-c24ff100-c1ae-11e9-8eb7-1bc4ae34ff61.png)
+<img src="Images/Image1.png" width="360" height="600">&nbsp;&nbsp;<img src="Images/Image2.png" width="360" height="600">
+<img src="Images/Image3.png" width="360" height="600">&nbsp;&nbsp;<img src="Images/Image4.png" width="360" height="600">
+<img src="Images/Image5.png" width="360" height="600">&nbsp;&nbsp;<img src="Images/Image6.png" width="360" height="600">
+<img src="Images/Image7.png" width="360" height="600">&nbsp;&nbsp;<img src="Images/Image8.png" width="360" height="600">
+<img src="Images/Image9.png" width="360" height="600">
+
+
